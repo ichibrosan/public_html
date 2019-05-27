@@ -1,5 +1,7 @@
 #!/usr/local/bin/python3.7
 # globbind.py 5/27/2019 dwg - initial version
+# Copyright (C) 2019 Douglas Wade Goodall. All Rights Reserved.
+
 import cgi
 import datetime
 import os
